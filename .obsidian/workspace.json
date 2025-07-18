@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d74916383a528cfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b965a713c37c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a46fc28cd67e92c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "878b86a902d84cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "5251ba790634a076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cc8f76e32b704cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c272b6664571bed2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "184e4774f40e9214",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cfc355bef9698e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b2651fc40c8ea99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780524e3d5abfbe9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a9eab55668cfc7ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a9f2b1133255f6c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04550d246b5d60ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0017a201aced219e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "8cc8f76e32b704cd",
+  "lastOpenFiles": [
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+    "Untitled.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+    "Sobre el simulador/Sobre el simulador.md",
+    "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
+    "Logo/proyecto logo en blanco.ai",
+    "Logo/proyecto logo en blanco - Copy.ai",
+    "Logo/proyecto logo en blanco (14-07).ai",
+    "Logo/proyecto logo en blanco (16-07).ai",
+    "Logo/proyecto logo en blanco (17-07).ai",
+    "Logo/proyecto logo en blanco (15-07).ai",
+    "Fotos y diagramas/Maestros/calkestisdualwield.png",
+    "Tutorial instalación/Tutorial instalación.pdf",
+    "Fotos y diagramas/Guardias/longsword_pflug.png",
+    "Fotos y diagramas/Bloqueos/bloq_medio_djem.png",
+    "Fotos y diagramas/Bloqueos/bloq_cab_djem.png",
+    "Fotos y diagramas/image-1.png",
+    "Tutorial instalación/Fotos/ENO Vault.png",
+    "Fotos y diagramas/bateria.jpeg",
+    "Fotos y diagramas/Maestros/Anakin_Skywalker_RotS.png",
+    "Fotos y diagramas/Bloqueos/bloqueo_cab_maka.png",
+    "Fotos y diagramas/Bloqueos/bloqueo_sup_maka.png",
+    "Fotos y diagramas/Adobe Illustrator 2025.lnk",
+    "Fotos y diagramas/Adobe Photoshop 2025.lnk",
+    "Notas Chechin/Anillo de Agua.md",
+    "Tutorial instalación/Tutorial instalación.md",
+    "Roles/Lúdicos.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
+    "Roles/Administrativos.md",
+    "Notas Chechin/Anillo de Tierra.md",
+    "Sobre el Combate/Tipos de Combate.md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
+    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma III (Soresu).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
+    "Proyectos/Protector de Espuma ENO.md",
+    "Sobre el simulador/Nivel 1 - Sable Casero.md",
+    "Sobre la Enseñanza/Para los Instructores.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
+    "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md"
+  ]
+}

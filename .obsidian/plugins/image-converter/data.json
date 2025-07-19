@@ -345,5 +345,9 @@
   "captionLetterSpacing": "normal",
   "captionBorder": "none",
   "captionMarginTop": "4px",
-  "captionAlignment": "center"
+  "captionAlignment": "center",
+  "modalSessionState": {
+    "customFolderOverride": "",
+    "customFilenameOverride": "soresu_alta_variante"
+  }
 }

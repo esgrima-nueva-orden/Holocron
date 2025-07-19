@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6b7c3a759264c1ef",
+        "id": "a544c26b6136cb46",
         "type": "tabs",
         "children": [
           {
-            "id": "33910bb0da0152eb",
+            "id": "09a444b5aa99085d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
                 "mode": "preview",
                 "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lección 4 - Spins de Sable"
+              "title": "Lección 6 - Guardias y estrategia"
             }
           }
         ]
@@ -99,37 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "244bd72489e74b90",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1e3f8f4329382fb4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "915e9670247362bc",
             "type": "leaf",
             "state": {
@@ -189,46 +149,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33910bb0da0152eb",
+  "active": "09a444b5aa99085d",
   "lastOpenFiles": [
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
+    "Sobre el simulador/Sobre el simulador.md",
+    "Sobre el Combate/Tipos de Combate.md",
+    "Tutorial instalación/Tutorial instalación.md",
+    "Roles/Lúdicos.md",
+    "Roles/Administrativos.md",
+    "Roles/Acádemicos.md",
+    "Roles/Roles.md",
+    "Sobre el simulador/Nivel 1 - Sable Casero.md",
+    "Esgrima Nueva Orden.md",
+    "Tutorial instalación/Tutorial instalación.pdf",
+    "Proyectos/Proyectos.md",
+    "Proyectos/Hoja flexible.md",
+    "Proyectos/Protector de Espuma ENO.md",
+    "Notas Chechin/Anillo de Agua.md",
+    "Fotos y diagramas/Bloqueos/bloqueo_sup_maka.png",
+    "Fotos y diagramas/Bloqueos/bloqueo_sup_soresu.png",
+    "Fotos y diagramas/Bloqueos/bloqueo_superior.png",
+    "Fotos y diagramas/Guardias/soresu_alta_variante.png",
+    "Fotos y diagramas/Bloqueos/soresu_bloq_cabeza.png",
+    "Fotos y diagramas/Guardias/soresu_guardia_alta.png",
+    "Fotos y diagramas/Guardias/soresu_punta_alta.png",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
     "Fotos y diagramas/Guardias/Guardia_alta_soresu.png",
     "Fotos y diagramas/Guardias/Guardia_Baja_soresu.png",
     "Fotos y diagramas/Guardias/punta_alta_cruzada.jpg",
-    "Fotos y diagramas/Guardias/punta_alta.jpg",
-    "Tutorial instalación/Tutorial instalación.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)/Forma V (Djem So).md",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)/Forma III (Soresu).md",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
-    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma II (Makashi).md",
-    "Sobre la Enseñanza/Curso de Profundización de Formas/Curso de Profundización de Formas.md",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)",
     "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)",
     "Sobre la Enseñanza/Curso de Profundización de Formas",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
-    "Fotos y diagramas/Guardias/soresu_mid_guard.png",
-    "Fotos y diagramas/Guardias/longsword_mid_guard.png",
-    "Fotos y diagramas/Guardias/soresu_midguard.png",
-    "Fotos y diagramas/Guardias/soresu_midguard (2).png",
-    "Fotos y diagramas/image-1.png",
-    "Fotos y diagramas/image.png",
-    "Untitled.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
-    "Roles/Roles.md",
-    "Proyectos/Proyectos.md",
-    "Proyectos/Hoja flexible.md",
-    "PDFs/PDFs.md",
     "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)",
     "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)",
     "Sobre la Enseñanza/Curso de Iniciación",
     "Sobre la Enseñanza/Cursos de Formas",
     "Fotos y diagramas/Desplazamientos",
-    "Fotos y diagramas/Maestros",
-    "Fotos y diagramas/Guardias"
+    "Fotos y diagramas/Maestros"
   ]
 }

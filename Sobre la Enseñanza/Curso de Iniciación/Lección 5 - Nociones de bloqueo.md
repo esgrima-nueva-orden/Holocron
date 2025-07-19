@@ -10,7 +10,7 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 
 ## Bloqueo Cabeza
 - **Soresu**
-
+![[soresu_bloq_cabeza.png|400]]
 - **Makashi**
 ![[bloqueo_cab_maka.png|419x188]]
 - **Djem So**

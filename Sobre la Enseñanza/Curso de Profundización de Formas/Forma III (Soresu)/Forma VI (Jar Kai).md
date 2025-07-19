@@ -10,7 +10,8 @@ Niten Ichi Ryu
 ![Jar Kai|400x500](calkestisdualwield.png)
 
 ## Requisitos
-Haber avanzado significativamente en la [[Forma III (Soresu)]] o en la [[Forma IV (Ataru)]] decidiendo usar esta disciplina, si uno lo desea puede quedarse en con su forma anterior.
+Haber avanzado significativamente en la [[Forma III (Soresu)]].
+
 ### Descripción
 La  Sexta forma de ENO es el Jar Kai, el Jar Kai consiste en el uso de dos sables a la vez, uno corto y otro largo, esta forma tiene una excelente defensa gracias a contar con 2 sables pero flaquea mas en el ataque.
 

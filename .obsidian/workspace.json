@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e13af87ac74a77c",
+        "id": "6b7c3a759264c1ef",
         "type": "tabs",
         "children": [
           {
-            "id": "7795201848847262",
+            "id": "33910bb0da0152eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lección 4 - Spins de Sable"
             }
           }
         ]
@@ -112,8 +112,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -192,8 +192,32 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7795201848847262",
+  "active": "33910bb0da0152eb",
   "lastOpenFiles": [
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+    "Fotos y diagramas/Guardias/Guardia_alta_soresu.png",
+    "Fotos y diagramas/Guardias/Guardia_Baja_soresu.png",
+    "Fotos y diagramas/Guardias/punta_alta_cruzada.jpg",
+    "Fotos y diagramas/Guardias/punta_alta.jpg",
+    "Tutorial instalación/Tutorial instalación.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)/Forma III (Soresu).md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Curso de Profundización de Formas.md",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma III (Soresu)",
+    "Sobre la Enseñanza/Curso de Profundización de Formas/Forma V (Djem So)",
+    "Sobre la Enseñanza/Curso de Profundización de Formas",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+    "Fotos y diagramas/Guardias/soresu_mid_guard.png",
+    "Fotos y diagramas/Guardias/longsword_mid_guard.png",
+    "Fotos y diagramas/Guardias/soresu_midguard.png",
+    "Fotos y diagramas/Guardias/soresu_midguard (2).png",
+    "Fotos y diagramas/image-1.png",
+    "Fotos y diagramas/image.png",
+    "Untitled.md",
     "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "Roles/Roles.md",
     "Proyectos/Proyectos.md",
@@ -205,9 +229,6 @@
     "Sobre la Enseñanza/Cursos de Formas",
     "Fotos y diagramas/Desplazamientos",
     "Fotos y diagramas/Maestros",
-    "Fotos y diagramas/Guardias",
-    "Tutorial instalación/Fotos",
-    "Fotos y diagramas/Bloqueos",
-    "Fotos y diagramas/Cortes"
+    "Fotos y diagramas/Guardias"
   ]
 }

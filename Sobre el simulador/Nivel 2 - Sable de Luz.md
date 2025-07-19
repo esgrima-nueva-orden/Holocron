@@ -2,7 +2,7 @@ Corresponde a un sable de luz RGB de cualquier marca con una hoja de 1 pulgada d
 
 Se recomienda la adquisición de un sable de luz una vez avanzado significativamente el Plan Común y tener en mente la Forma de combate a entrenar, ya que el largo de la hoja dependerá del tipo de Forma que se estudie.
 
-
+<span style="background:#ff4d4f">Por redactar: Recomendacion de sables, vendedores, fabricantes, diferencias entre xenopixel y RGB</span>
 Para contexto de entrenamiento, entrenar movimientos del sable por ejemplo, el simulador podrá ser usado sin ningún revestimiento protector.
 
 Para uso en combate amistoso, el sable deberá de utilizar el "Protector de espuma ENO".

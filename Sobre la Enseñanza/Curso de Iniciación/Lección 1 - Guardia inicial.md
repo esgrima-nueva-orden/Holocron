@@ -3,13 +3,9 @@ Es varía por cada forma.
 
 ## Soresu
 
-![[katana_mid_guard.png]]
+![[soresu_mid_guard.png]]
 
-Con chudan-no-kamae se proyecta una amenaza a la garganta del oponente a través de la punta
-de la espada de uno. El puño izquierdo se coloca a aproximadamente a un puño de distancia del
-ombligo y un poco hacia abajo. Los pies se colocan a medio paso de distancian entre ellos, el pie
-derecho al frente. La posición debe ser tomada como si uno se hubiera parado naturalmente al
-caminar.
+Con chudan-no-kamae se proyecta una amenaza a la garganta del oponente a través de la punta de la espada de uno. El puño izquierdo se coloca a aproximadamente a un puño de distancia del ombligo y un poco hacia abajo. Los pies se colocan a medio paso de distancian entre ellos, el pie derecho al frente. La posición debe ser tomada como si uno se hubiera parado naturalmente al caminar.
 
 ## Makashi
 

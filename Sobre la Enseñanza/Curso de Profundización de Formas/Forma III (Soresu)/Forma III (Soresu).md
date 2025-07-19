@@ -7,11 +7,9 @@ El libro de los 5 anillos - Musashi Miyamoto
 
 ![Soresu|350x500](Obi-wan_kenobi.png)
 
-## Requisitos
-Haber avanzado significativamente en la [[Forma I (Shii-Cho)]] logrando avanzar a esta disciplina.
 ### Descripción
-La tercera forma de ENO es el Soresu, deriva del Shii-Cho siendo una mejora clara respecto a su predecesora.
-La principal base del Soresu es el "Principio ataque y defensa en uno", el cual nos enseña a aprovechar las oportunidades que se nos presentan sin duda alguna.
+La tercera forma de ENO es el Soresu.
+La base de esta forma es el "principio ataque y defensa en uno", el cual nos enseña a aprovechar las oportunidades que se nos presentan sin duda alguna.
 
 #### Medidas del sable
 

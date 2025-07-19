@@ -7,8 +7,6 @@ Kunt des fechten. Lagschwer. Joachim Meyer Art Of Combat (2 Manos)
 
 ![Djem So|400x500](Anakin_Skywalker_RotS.png)
 
-## Requisitos
-Haber avanzado significativamente en la [[Forma III (Soresu)]] o en la [[Forma IV (Ataru)]] decidiendo usar esta disciplina, si uno lo desea puede quedarse en con su forma anterior.
 ### Descripción
 La quinta forma de ENO es el Djem So, 
 

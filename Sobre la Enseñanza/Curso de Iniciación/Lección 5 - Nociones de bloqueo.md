@@ -32,4 +32,6 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 
 
 ## Bloqueo Bajo
-
+- Soresu
+- Makashi
+- Djem So

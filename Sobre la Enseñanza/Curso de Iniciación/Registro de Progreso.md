@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 Nombre: 
 Fecha de Ingreso:
 

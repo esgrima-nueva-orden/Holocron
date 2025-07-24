@@ -4,7 +4,7 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": false,
+  "autoCreate": true,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
@@ -19,7 +19,7 @@
   "openInNewTab": false,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
-  "folderNoteName": "{{folder_name}}",
+  "folderNoteName": "index",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",
@@ -60,10 +60,9 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "path",
+  "settingsTab": "general",
   "supportedFileTypes": [
-    "md",
-    "canvas"
+    "md"
   ],
   "boldName": false,
   "boldNameInPath": false,

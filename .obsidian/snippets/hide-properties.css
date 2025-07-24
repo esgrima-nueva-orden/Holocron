@@ -1,0 +1,7 @@
+/* Ocultar propiedades YAML en Reading View */
+.markdown-reading-view .frontmatter,
+.markdown-preview-view .frontmatter,
+.metadata-container,
+.frontmatter-container {
+  display: none !important;
+}

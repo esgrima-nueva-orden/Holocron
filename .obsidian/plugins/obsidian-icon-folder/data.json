@@ -20,25 +20,20 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
-    "useInternalPlugins": false
+    "useInternalPlugins": true
   },
-  "Notas Chechin/Anillo de Tierra.md": {
-    "iconName": "LiEarth",
-    "iconColor": "#00ff2a"
-  },
-  "Notas Chechin/Anillo de Agua.md": "🌊",
   "Roles": "📜",
   "Sobre la Enseñanza": "📓",
   "Sobre el simulador": {
@@ -47,13 +42,7 @@
   },
   "Sobre el Combate": "⚔",
   "Proyectos": "📚",
-  "PDFs": "📜",
   "Fotos y diagramas": "🖼",
-  "Logo": "LiPencil",
-  "Notas Chechin": {
-    "iconName": "LiNotebookPen",
-    "iconColor": "#d35cff"
-  },
   "Tutorial instalación": {
     "iconName": "LiPenTool",
     "iconColor": "#ffffff"

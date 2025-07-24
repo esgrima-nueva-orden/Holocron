@@ -1,14 +1,14 @@
 [
   "table-editor-obsidian",
   "better-export-pdf",
-  "custom-sort",
   "editing-toolbar",
   "folder-notes",
   "obsidian-icon-folder",
   "obsidian-icons-plugin",
-  "image-converter",
   "settings-search",
+  "image-converter",
   "obsidian-style-settings",
-  "dataview",
-  "obsidian-excalidraw-plugin"
+  "custom-sort",
+  "nav-weight",
+  "obsidian-front-matter-title-plugin"
 ]

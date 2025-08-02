@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd3af1ffbb29380",
+        "id": "54d6d0bc7d6d6d91",
         "type": "tabs",
         "children": [
           {
-            "id": "8a7c3b6b060f9965",
+            "id": "bff47a599c2c7d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/index.md",
+                "file": "_To do List/index.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "dd960ce53219859c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Bloqueos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lección 6 - Bloqueos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,37 +106,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fc1aeed22bb3b36",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b9292cfa3fae5470",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "5dd499a02f212eec",
             "type": "leaf",
             "state": {
@@ -141,21 +126,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyectos/index.md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Bloqueos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Lección 6 - Bloqueos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,53 +154,52 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "8a7c3b6b060f9965",
+  "active": "dd960ce53219859c",
   "lastOpenFiles": [
-    "Tutorial instalación/index.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Sobre el Sable de Luz.md",
-    "Sobre la Enseñanza/index.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
-    "Qué es la Esgrima con Sable de Luz/index.md",
-    "Quienes somos/index.md",
-    "Sobre la Enseñanza/Curso de Iniciación/index.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/index.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/Forma VI Jar Kai.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/Forma V Djem So.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/Forma VII Juyo o Vapad.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/Forma III Soresu.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate/Forma II Makashi.md",
-    "Sobre la Enseñanza/Nuestras Formas de Combate",
-    "_To do List.md",
-    "Sobre la Enseñanza/Pendientes/index.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Guardias y estrategia.md",
-    "Sobre la Enseñanza/Curso de Profundización de Formas/index.md",
-    "Fotos y diagramas/Partes del sable/punta_hoja.png",
-    "Fotos y diagramas/Partes del sable/papel_hoja.png",
-    "Fotos y diagramas/Partes del sable/hoja.png",
-    "Fotos y diagramas/Partes del sable",
-    "index.md",
+    "_To do List/index.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Bloqueos.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 9 - Giros de cuerpo.md",
+    "Fotos y diagramas/bloqueo_medio_makashi.png",
+    "Fotos y diagramas/bloqueo_bajo_makashi.png",
+    "_Estudio de Formas/index.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Introducción al combate.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Guardia inicial.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Spins de Sable.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Desplazamientos.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Cortes primarios.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 9 - Giros de cuerpo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Sobre el Sable de Luz.md",
     "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
-    "Fotos y diagramas/erasmus_italia.png",
-    "Fotos y diagramas/ludosport.png",
-    "Fotos y diagramas/lightsaber_fencing_france.png",
-    "Fotos y diagramas/santo_tomas_ubicacion.png",
-    "Qué es la Esgrima con Sable de Luz",
-    "Sobre la Enseñanza/Curso de Profundización de Formas",
-    "Tutorial instalación/Tutorial instalación.pdf",
-    "Tutorial instalación/Fotos/ENO Vault.png",
-    "Tutorial instalación/Fotos/Obsidian page.png",
-    "Tutorial instalación/Fotos/Repo.png",
-    "Tutorial instalación/Fotos",
-    "Tutorial instalación",
-    "Proyectos",
-    "Sobre el Combate",
-    "Sobre el simulador"
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Guardia inicial.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Cortes primarios.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Desplazamientos.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Guardias y estrategia.md",
+    "Sobre la Enseñanza/index.md",
+    "Quienes somos/index.md",
+    "Qué es la Esgrima con Sable de Luz/index.md",
+    "Sobre el simulador/Sable de Luz.md",
+    "index.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Spins de Sable.md",
+    "Sobre la Enseñanza/Curso de Iniciación/index.md",
+    "Fotos y diagramas/Sable de luz/Sable de luz.md",
+    "Tutorial instalación/index.md",
+    "_Para los Instructores/index.md",
+    "_Estudio de Formas/Makashi/index.md",
+    "_Estudio de Formas/Jar Kai/Jar Kai.md",
+    "_Estudio de Formas/Jar Kai/index.md",
+    "_Estudio de Formas/Djem So/index.md",
+    "_Estudio de Formas/~$Introductoria con instrucciones.pptx",
+    "_Estudio de Formas/Introductoria con instrucciones.pptx",
+    "Fotos y diagramas/guardia_baja_makashi.png",
+    "Fotos y diagramas/guardia_alta_djemso-2.png",
+    "Fotos y diagramas/guardia_alta_makashi-1.png",
+    "Fotos y diagramas/guardia_alta_djemso-1.png",
+    "Fotos y diagramas/guardia_baja_djemso-1.png",
+    "Fotos y diagramas/guardia_media_djemso3.png",
+    "Fotos y diagramas/guardia_media_djemso2.png",
+    "Fotos y diagramas/guardia_media_djemso.png",
+    "_Estudio de Formas/Makashi/Cold Steel (apuntes) - Daniel Cristi.pdf",
+    "_Estudio de Formas/Jar Kai",
+    "_Estudio de Formas/Makashi/Guía básica de sable militar.pdf",
+    "_Estudio de Formas/Soresu/MATERIAL DE APOYO.pdf",
+    "_Estudio de Formas/Djem So/Espada Basica - Daniel Cristi_033747.pdf",
+    "_Estudio de Formas/Soresu/Manual Ilustrado de Kendo Español.pdf",
+    "_Estudio de Formas/Soresu/Manual Ilustrado de Kendo EDITADO.pdf",
+    "_Estudio de Formas/Soresu/Al Lector de Kendo - Noma Hisashi.pdf"
   ]
 }

@@ -28,7 +28,7 @@ Actualmente es un deporte con presencia internacional, con diversas escuelas, re
 
 | ![[tournament_usa.png\|300]] | ![[erasmus_italia.png\| 300]]      |
 | ---------------------------- | ---------------------------------- |
-| Torneo en libre E.E.U.U.     | Lightsaber Fencing Eramus - Italia | 
+| Torneo libre en E.E.U.U.     | Lightsaber Fencing Eramus - Italia | 
 
 
 
@@ -38,7 +38,6 @@ En Chile, esta disciplina lleva años siendo practicada. Existen varias agrupaci
 
 - Esgrima Jedi Chile
 - Alianza Kyber Chile
-- Academia Jedi Chile
 - Rebel Conce
 - Club Nueva Fuerza Valdivia
 - Lobos de lothal Rancagua

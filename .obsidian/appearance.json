@@ -2,8 +2,11 @@
   "cssTheme": "Cyber Glow",
   "theme": "obsidian",
   "accentColor": "#424242",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
-    "hide-properties"
-  ]
+    "hide-properties",
+    "S - Images Adjustments"
+  ],
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }

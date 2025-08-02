@@ -1,5 +1,0 @@
-- [ ] Lección 8
-- [ ] Lección 9
-- [ ] Imágenes
-- [ ] Curso de profundización de formas
-- [ ] Asegurar que todas las notas estén conectadas (ver graph view)
